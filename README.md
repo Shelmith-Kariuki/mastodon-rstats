@@ -1,8 +1,8 @@
-<center>![](./r-stats_mastadon.png)</center>
+![](./r-stats_mastadon.png)
 
 <br>
 
-<center>🌟 *The community is one of #rstats biggest asset \~ David Smith during #runconf17* 🌟</center>
+🌟 *The community is one of #rstats biggest asset \~ David Smith during #runconf17* 🌟
 
 <br> Please add your mastadon account below so that we can connect on that platform.
 
